@@ -39,16 +39,16 @@ class defaultCommand():
 mylist = []
 Card_Choices = []
 choices =[create_choice(name="狐狸",
-                        value="你不要命了?挑戰 <@!1> 那你可是需要堤防他ㄉㄅㄐ!!!"
+                        value="你不要命了?挑戰 <@!303049625009389569> 那你可是需要堤防他ㄉㄅㄐ!!!"
                         ),
           create_choice(name="丁py",
-                        value="你竟然想挑戰 <@!1> piyen快洗乾淨ㄅ~~!!"
+                        value="你竟然想挑戰 <@!721728816086646885> piyen快洗乾淨ㄅ~~!!"
                         ),
           create_choice(name="醬汁",
-                        value="<@!1> 只會私藏不教 無須挑戰"
+                        value="<@!353540008176648192> 只會私藏不教 無須挑戰"
                         ),
           create_choice(name="咩噗ㄐㄐ",
-                        value="你竟敢挑戰 <@!1> !!!他可是至高咩噗"
+                        value="你竟敢挑戰 <@!459010884547772416> !!!他可是至高咩噗"
                         )]
 
 

@@ -4,7 +4,7 @@ import requests
 class upload():
     def __init__(self, Card_Choices):
         self.Card_Choices = Card_Choices
-        url = "https://discord.com/api/v8/applications/app_id/guilds/guild_id/commands"
+        url = "https://discord.com/api/v8/applications/appid/guilds/guildid/commands"
         
         # This is an example USER command, with a type of 2
         json = {
