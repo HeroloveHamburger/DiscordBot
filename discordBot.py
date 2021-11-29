@@ -112,7 +112,7 @@ async def on_message(message):
 
 def botRun():
     nest_asyncio.apply()
-    bot.run("OTEzMjM3NzI1MTk1NDE5NjU4.YZ7k6A.8F95gaOh0Rge1osCXvMhJHqLlsw")
+    bot.run("")
 
 
 botRun()
